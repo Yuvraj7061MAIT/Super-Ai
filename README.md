@@ -1,6 +1,3 @@
-Here’s a `README.md` file for GitHub that includes documentation for both the multi-model text classification system and the BERT-based classification system:
-
----
 
 # Multi-Model Text Classification System
 
